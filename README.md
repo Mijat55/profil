@@ -24,5 +24,5 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mijat55" alt="mijat55" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mijat55&show_icons=true&locale=en" alt="mijat55" /></p>
+
 
